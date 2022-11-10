@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/iwpnews/static/css/main.16297ca6.chunk.css",
+    "main.js": "/iwpnews/static/js/main.2e02aec4.chunk.js",
+    "main.js.map": "/iwpnews/static/js/main.2e02aec4.chunk.js.map",
+    "runtime-main.js": "/iwpnews/static/js/runtime-main.7d80039e.js",
+    "runtime-main.js.map": "/iwpnews/static/js/runtime-main.7d80039e.js.map",
+    "static/css/2.015dc0ab.chunk.css": "/iwpnews/static/css/2.015dc0ab.chunk.css",
+    "static/js/2.032955e1.chunk.js": "/iwpnews/static/js/2.032955e1.chunk.js",
+    "static/js/2.032955e1.chunk.js.map": "/iwpnews/static/js/2.032955e1.chunk.js.map",
+    "static/js/3.62f14a2e.chunk.js": "/iwpnews/static/js/3.62f14a2e.chunk.js",
+    "static/js/3.62f14a2e.chunk.js.map": "/iwpnews/static/js/3.62f14a2e.chunk.js.map",
+    "index.html": "/iwpnews/index.html",
+    "static/css/2.015dc0ab.chunk.css.map": "/iwpnews/static/css/2.015dc0ab.chunk.css.map",
+    "static/css/main.16297ca6.chunk.css.map": "/iwpnews/static/css/main.16297ca6.chunk.css.map",
+    "static/js/2.032955e1.chunk.js.LICENSE.txt": "/iwpnews/static/js/2.032955e1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d80039e.js",
+    "static/css/2.015dc0ab.chunk.css",
+    "static/js/2.032955e1.chunk.js",
+    "static/css/main.16297ca6.chunk.css",
+    "static/js/main.2e02aec4.chunk.js"
+  ]
+}
